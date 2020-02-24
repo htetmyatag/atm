@@ -25,7 +25,7 @@ public class Money {
         return dollar;
     }
 
-    public void setDollar(int dollar) {
+    private void setDollar(int dollar) {
         this.dollar = dollar;
     }
 }
